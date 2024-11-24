@@ -23,7 +23,7 @@ Run the app, sign up or log in, and start chatting in real-time.
 
 Flash Chat demonstrates how to integrate Firebase for real-time data and user authentication, making it an ideal project for developers learning about backend integration in Swift.
 
-![FlashChatImage](https://github.com/user-attachments/assets/8f7e537e-cc7c-4ff3-a166-5bb4538d2dc1)
+
 
 
 
